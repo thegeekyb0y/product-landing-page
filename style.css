@@ -4,9 +4,6 @@ body {
 #title {
   display:flex;
   flex-direction:column;
-
-  
-
 }
 h1 {
     color:#66fc51;
@@ -30,20 +27,16 @@ h1 {
 #img-div p{
   color:gray;
   font-size:70%;
-  
 }
 img{
   border-radius:15px;
   height: auto;
   max-width:70%
-
 }
-
 #tribute-info {
    color:white;
   font-family:manrope;
-  margin-left:15px;
-  
+  margin-left:15px; 
 }
 #tribute-info {
   color:white;
