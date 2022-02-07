@@ -1,4 +1,4 @@
-/** global element styling **/
+
 
 @import 'https://fonts.googleapis.com/css?family=Lato:400,700';
 
@@ -204,18 +204,6 @@ nav > ul {
     padding: 0;
     height: 150px;
   }
-}
-
-@media (max-width: 650px) {
-  #features {
-    margin-top: 0;
-  }
-}
-
-#how-it-works {
-  margin-top: 50px;
-  display: flex;
-  justify-content: center;
 }
 
 #how-it-works > iframe {
